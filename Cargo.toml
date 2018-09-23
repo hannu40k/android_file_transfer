@@ -1,0 +1,9 @@
+[package]
+name = "android-file-transfer"
+version = "0.1.0"
+authors = ["Hannu Kämäräinen <hannu.rx.kamarainen@gmail.com>"]
+
+[dependencies]
+chrono = "0.4"
+log = "*"
+log4rs = "*"
